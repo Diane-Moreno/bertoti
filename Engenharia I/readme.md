@@ -2,3 +2,4 @@
 
 Titus Winters, Software Engineering at Google
 
+O texto fala que a engenharia de software envolve muito mais que só programar, é sobre a qualidade de tempo, organização e eficiência. O engenheiro de software pensa além da programação, pensa o que vai vir no futuro.

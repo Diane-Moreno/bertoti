@@ -8,3 +8,18 @@ O texto fala que a engenharia de software envolve muito mais que só programar, 
 ATIVIDADE 2
 Vejo o Trade-offs na API como uma troca de experiêcia e um método rápido para aprendizagem, desenvolvemos coisas novas e com qualidade, aprendendo a trabalhar em equipe. Mas exige um certo tempo de dedicação e esforço.
 
+ATIVIDADE 3
+
+- Situação: 
+Uma clínica médica particular precisa cadastrar a consulta dos pacientes no sistema.
+
+- Requisitos funcionais: 
+Cadastrar os pacientes inserindo CPF, RG, telefone;
+Cadastrar qual o melhor horário e data para o paciente;
+Cadastrar qual a especialidade e o nome do médico que o paciente precisa passar. 
+
+- Requisitos não funcionais:
+Criar um sistema simples de fácil acesso e de fácil entendimento;
+Criar um sistema que tenha facilidade em fazer alterações se for preciso;
+Criar uma interface simples e específica.
+

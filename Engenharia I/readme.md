@@ -8,7 +8,7 @@ O texto fala que a engenharia de software envolve muito mais que só programar, 
 ATIVIDADE 2
 Vejo o Trade-offs na API como uma troca de experiêcia e um método rápido para aprendizagem, desenvolvemos coisas novas e com qualidade, aprendendo a trabalhar em equipe. Mas exige um certo tempo de dedicação e esforço.
 
-ATIVIDADE 3
+# ATIVIDADE 3
 
 - Situação: 
 Uma clínica médica particular precisa cadastrar a consulta dos pacientes no sistema.

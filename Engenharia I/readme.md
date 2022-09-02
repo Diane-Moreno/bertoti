@@ -20,3 +20,4 @@ Criar um sistema simples de fácil acesso e de fácil entendimento;
 Criar um sistema que tenha facilidade em fazer alterações se for preciso;
 Criar uma interface simples e específica.
 
+

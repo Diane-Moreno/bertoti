@@ -9,15 +9,21 @@ Vejo o Trade-offs na API como uma troca de experiêcia e um método rápido para
 
 ATIVIDADE 3
 - Situação: 
-Uma clínica médica particular precisa cadastrar a consulta dos pacientes no sistema.
+Um pet shop para cachorros precisa cadastrar os cachorros no sistema.
 
 - Requisitos funcionais: 
-Cadastrar os pacientes inserindo CPF, RG, telefone;
-Cadastrar qual o melhor horário e data para o paciente;
-Cadastrar qual a especialidade e o nome do médico que o paciente precisa passar. 
+Cadastrar os cachorros (raça, nome e peso);
+Pesquisar os cachorros (por raça, nome e peso);
+Visualizar os cachorros na tabela.
+
 - Requisitos não funcionais:
-Criar um sistema simples de fácil acesso e de fácil entendimento;
-Criar um sistema que tenha facilidade em fazer alterações se for preciso;
-Criar uma interface simples e específica.
+Criar um sistema com uma boa usabilidade;
+Criar um sistema que tenha uma boa visualização e facilidade;
+Banco de dados para armazenamento de informações.
+
+- Diagrama de Classe UML
+
+![Diagrama de Classe UML](https://user-images.githubusercontent.com/102235722/197267845-cc423eb3-0138-459e-86b7-a2db4ef7fac4.png)
+
 
 

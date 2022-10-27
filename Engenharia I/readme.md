@@ -23,7 +23,8 @@ Banco de dados para armazenamento de informações.
 
 - Diagrama de Classe UML
 
-![Diagrama de Classe UML](https://user-images.githubusercontent.com/102235722/197267845-cc423eb3-0138-459e-86b7-a2db4ef7fac4.png)
+![Diagrama de Classe UML](https://user-images.githubusercontent.com/102235722/198379547-95e621d2-0399-4b98-9565-9c50b331c97d.png)
+
 
 
 

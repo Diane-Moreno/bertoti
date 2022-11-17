@@ -22,8 +22,9 @@ Criar um sistema que tenha uma boa visualização e facilidade;
 Banco de dados para armazenamento de informações.
 
 - Diagrama de Classe UML
+-![Diagrama de Classe](https://user-images.githubusercontent.com/102235722/202477337-5e0270fd-3f3a-4a19-bb51-24ebfbbeecc2.png)
+ 
 
-![Diagrama de Classe UML](https://user-images.githubusercontent.com/102235722/198379547-95e621d2-0399-4b98-9565-9c50b331c97d.png)
 
 
 

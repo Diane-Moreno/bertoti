@@ -48,7 +48,7 @@ Banco de dados para armazenamento de informações.
 
 ![4](https://user-images.githubusercontent.com/102235722/202779257-d9ab5780-77b5-48dc-9536-0517db133a17.png)
 
-## Código DAOCachorro
+## Código Cachorro DAO
 
 ![5](https://user-images.githubusercontent.com/102235722/202779331-ba050e07-460e-4774-8abe-11a8ad3062b3.png)
 

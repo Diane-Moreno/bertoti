@@ -21,12 +21,12 @@ Criar um sistema com uma boa usabilidade;
 Criar um sistema que tenha uma boa visualização e facilidade;
 Banco de dados para armazenamento de informações.
 
-## - Casos de uso
+## Casos de uso
 
 ![Casos de uso](https://user-images.githubusercontent.com/102235722/202778856-ce70ef17-80bd-4afe-8849-7b1a11310cf5.png)
 
 
-## - Diagrama de Classe UML
+## Diagrama de Classe UML
 
 ![Diagrama de Classe](https://user-images.githubusercontent.com/102235722/202771603-b6ed8c65-ba0e-4d50-bbbc-fed24a2cdbee.png)
 

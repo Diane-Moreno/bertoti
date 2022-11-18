@@ -21,9 +21,41 @@ Criar um sistema com uma boa usabilidade;
 Criar um sistema que tenha uma boa visualização e facilidade;
 Banco de dados para armazenamento de informações.
 
+## - Casos de uso
+
+![Casos de uso](https://user-images.githubusercontent.com/102235722/202778856-ce70ef17-80bd-4afe-8849-7b1a11310cf5.png)
+
+
 ## - Diagrama de Classe UML
 
 ![Diagrama de Classe](https://user-images.githubusercontent.com/102235722/202771603-b6ed8c65-ba0e-4d50-bbbc-fed24a2cdbee.png)
+
+## Programa em Execução
+
+![6](https://user-images.githubusercontent.com/102235722/202778952-491c2ac2-e386-46e7-ae2e-9f11c532463e.png)
+
+## Vizualização View Front
+
+![1](https://user-images.githubusercontent.com/102235722/202779052-64859860-5458-4f50-a7c1-5242b4960e2f.png)
+
+## Código ConnectionFactory
+
+![2](https://user-images.githubusercontent.com/102235722/202779181-fdebf6fc-fddb-4f63-b984-672a3e56ed3a.png)
+
+![3](https://user-images.githubusercontent.com/102235722/202779190-b556dc41-4441-4c8a-872c-f264dfd56d9d.png)
+
+## Código Classe Cachorro
+
+![4](https://user-images.githubusercontent.com/102235722/202779257-d9ab5780-77b5-48dc-9536-0517db133a17.png)
+
+## Código DAOCachorro
+
+![5](https://user-images.githubusercontent.com/102235722/202779331-ba050e07-460e-4774-8abe-11a8ad3062b3.png)
+
+
+
+
+
 
  
 

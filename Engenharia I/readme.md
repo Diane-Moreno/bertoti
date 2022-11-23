@@ -32,11 +32,11 @@ Banco de dados para armazenamento de informações.
 
 ## Programa em Execução
 
-![6](https://user-images.githubusercontent.com/102235722/202778952-491c2ac2-e386-46e7-ae2e-9f11c532463e.png)
+![Captura de Tela (57)](https://user-images.githubusercontent.com/102235722/203639611-42abe407-6a02-4c77-9c3c-c659f409dadd.png)
 
 ## Vizualização View Front
 
-![1](https://user-images.githubusercontent.com/102235722/202779052-64859860-5458-4f50-a7c1-5242b4960e2f.png)
+![Captura de Tela (58)](https://user-images.githubusercontent.com/102235722/203639650-a8b5a201-920f-450d-a456-988aaaf5ef10.png)
 
 ## Código ConnectionFactory
 

@@ -46,7 +46,7 @@ Banco de dados para armazenamento de informações.
 
 ## Código Classe Cachorro
 
-![4](https://user-images.githubusercontent.com/102235722/202779257-d9ab5780-77b5-48dc-9536-0517db133a17.png)
+![Captura de Tela (59)](https://user-images.githubusercontent.com/102235722/203807581-0def7d41-96a4-443d-b878-d355dc223d6c.png)
 
 ## Código Cachorro DAO
 

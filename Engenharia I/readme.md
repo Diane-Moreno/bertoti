@@ -22,8 +22,7 @@ Banco de dados para armazenamento de informações.
 
 ## Casos de uso
 
-![Casos de uso](https://user-images.githubusercontent.com/102235722/202778856-ce70ef17-80bd-4afe-8849-7b1a11310cf5.png)
-
+![Casos de uso](https://user-images.githubusercontent.com/102235722/203976962-562d52e9-056f-47a5-9afd-4495955147e2.png)
 
 ## Diagrama de classe UML
 

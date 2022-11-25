@@ -13,7 +13,6 @@ Um pet shop para cachorros precisa cadastrar os cachorros no sistema.
 
 - Requisitos funcionais: 
 Cadastrar os cachorros (raça, nome e peso);
-Pesquisar os cachorros (por raça, nome e peso);
 Visualizar os cachorros na tabela.
 
 - Requisitos não funcionais:

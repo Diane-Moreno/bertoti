@@ -1,3 +1,3 @@
-#HEURÍTISCAS
+# HEURÍTISCAS
 
-##1. 
+## 1. 

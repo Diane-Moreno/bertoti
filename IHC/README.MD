@@ -30,6 +30,7 @@ O sistema deve informar o que está acontecendo em tempo real para o usuário.
 
  
 
+![Captura de Tela (110)](https://user-images.githubusercontent.com/102235722/235931694-fc22b420-fd26-4630-9517-3d3caacbdc4a.png)
 
 
  
@@ -40,7 +41,8 @@ O sistema deve informar o que está acontecendo em tempo real para o usuário.
 
 <div align="center">
 <img width="400px" src="">
-<br>Figura 1: Exemplo negativo de visibilidade do status do sistema.
+<br>Figura 1: Exemplo de visibilidade do status do sistema.
+  Nessa imagem podemos ver o tempo que está o vídeo, o quanto já foi carregado, e o quanto ainda resta.
 </div>
 
  

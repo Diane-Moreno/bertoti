@@ -32,7 +32,7 @@ O sistema deve informar o que está acontecendo em tempo real para o usuário.
 
 <div align="center">
 <img width="400px" src="">
-<br>Figura 1: Exemplo de visibilidade do status do sistema.
+<br>Figura 1: Exemplo negativo de visibilidade do status do sistema.
 </div>
 
  
@@ -57,10 +57,7 @@ O sistema deve ter a mesma linguagem que seu usuário utiliza no dia a dia, conc
 
  
 
-<div align="center">
-<img width="400px" src="">
-<br>Figura 3: Exemplo de correspondência entre o sistema e o mundo real.
-</div>
+
 
  
 
@@ -84,10 +81,7 @@ O sistema deve dar ao usuário a liberdade de fazer o que quiser, facilitando a 
 
  
 
-<div align="center">
-<img width="400px" src="">
-<br>Figura 5: Exemplo de controle e liberdade do usuário.
-</div>
+
 
  
 
@@ -111,10 +105,7 @@ A interface deve manter uma consistência, garantir a harmonia visual e induzir 
 
  
 
-<div align="center">
-<img width="400px" src="">
-<br>Figura 7: Exemplo de consistência e padrões.
-</div>
+
 
  
 
@@ -138,10 +129,6 @@ O sistema deve buscar prevenir que problemas ocorram, eliminando condições mai
 
  
 
-<div align="center">
-<img width="300px" src="">
-<br>Figura 9: Exemplo de prevenção de erros.
-</div>
 
  
 
@@ -165,10 +152,7 @@ Aconselha-se minimizar a quantidade de informações que o usuário precisa memo
 
  
 
-<div align="center">
-<img width="400px" src="">
-<br>Figura 11: Exemplo de reconhecimento em vez de lembrança.
-</div>
+
 
  
 
@@ -192,10 +176,7 @@ A interface deve permitir que os usuários tenham uma boa experiência com o sis
 
  
 
-<div align="center">
-<img width="300px" src="">
-<br>Figura 13: Exemplo de flexibilidade e eficiência de uso.
-</div>
+
 
  
 
@@ -219,10 +200,7 @@ A interface deve ser minimalista e o conteúdo o mais direto possível, para nã
 
  
 
-<div align="center">
-<img width="400px" src="">
-<br>Figura 15: Exemplo de estética e design minimalista.
-</div>
+
 
  
 
@@ -246,10 +224,7 @@ Em caso de algum erro, mostrar mensagens claras e objetivas e próximas da açã
 
  
 
-<div align="center">
-<img width="300px" src="">
-<br>Figura 17: Exemplo de ajuda ao usuário reconhecer, diagnosticar e recuperar-se de erros.
-</div>
+
 
  
 
@@ -273,10 +248,7 @@ Preparar uma ferramenta de auxílio ao usuário, de forma mais detalhada, facili
 
  
 
-<div align="center">
-<img width="400px" src="">
-<br>Figura 19: Exemplo de ajuda e documentação.
-</div>
+
 
  
 

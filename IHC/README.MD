@@ -30,10 +30,7 @@ O sistema deve informar o que está acontecendo em tempo real para o usuário.
 
  
 
-<div align="center">
-<img width="400px" src="">
-<br>Figura 1: Exemplo negativo de visibilidade do status do sistema.
-</div>
+
 
  
 
@@ -43,7 +40,7 @@ O sistema deve informar o que está acontecendo em tempo real para o usuário.
 
 <div align="center">
 <img width="400px" src="">
-<br>Figura 2: Exemplo negativo de visibilidade do status do sistema.
+<br>Figura 1: Exemplo negativo de visibilidade do status do sistema.
 </div>
 
  
@@ -67,7 +64,7 @@ O sistema deve ter a mesma linguagem que seu usuário utiliza no dia a dia, conc
 
 <div align="center">
 <img width="400px" src="">
-<br>Figura 4: Exemplo negativo de correspondência entre o sistema e o mundo real.
+<br>Figura 2: Exemplo negativo de correspondência entre o sistema e o mundo real.
 </div>
 
  
@@ -91,7 +88,7 @@ O sistema deve dar ao usuário a liberdade de fazer o que quiser, facilitando a 
 
 <div align="center">
 <img width="400px" src="">
-<br>Figura 6: Exemplo negativo de controle e liberdade do usuário.
+<br>Figura 3: Exemplo negativo de controle e liberdade do usuário.
 </div>
 
  
@@ -115,7 +112,7 @@ A interface deve manter uma consistência, garantir a harmonia visual e induzir 
 
 <div align="center">
 <img width="400px" src="">
-<br>Figura 8: Exemplo negativo de consistência e padrões.
+<br>Figura 4: Exemplo negativo de consistência e padrões.
 </div>
 
  
@@ -138,7 +135,7 @@ O sistema deve buscar prevenir que problemas ocorram, eliminando condições mai
 
 <div align="center">
 <img width="200px" src="">
-<br>Figura 10: Exemplo negativo de prevenção de erros.
+<br>Figura 5: Exemplo negativo de prevenção de erros.
 </div>
 
  
@@ -162,7 +159,7 @@ Aconselha-se minimizar a quantidade de informações que o usuário precisa memo
 
 <div align="center">
 <img width="400px" src="">
-<br>Figura 12: Exemplo negativo de reconhecimento em vez de lembrança.
+<br>Figura 6: Exemplo negativo de reconhecimento em vez de lembrança.
 </div>
 
  
@@ -186,7 +183,7 @@ A interface deve permitir que os usuários tenham uma boa experiência com o sis
 
 <div align="center">
 <img width="400px" src="">
-<br>Figura 14: Exemplo negativo de flexibilidade e eficiência de uso.
+<br>Figura 7: Exemplo negativo de flexibilidade e eficiência de uso.
 </div>
 
  
@@ -210,7 +207,7 @@ A interface deve ser minimalista e o conteúdo o mais direto possível, para nã
 
 <div align="center">
 <img width="400px" src="">
-<br>Figura 16: Exemplo negativo de estética e design minimalista.
+<br>Figura 8: Exemplo negativo de estética e design minimalista.
 </div>
 
  
@@ -234,7 +231,7 @@ Em caso de algum erro, mostrar mensagens claras e objetivas e próximas da açã
 
 <div align="center">
 <img width="400px" src="">
-<br>Figura 18: Exemplo negativo de ajuda ao usuário reconhecer, diagnosticar e recuperar-se de erros.
+<br>Figura 9: Exemplo negativo de ajuda ao usuário reconhecer, diagnosticar e recuperar-se de erros.
 </div>
 
  
@@ -258,7 +255,7 @@ Preparar uma ferramenta de auxílio ao usuário, de forma mais detalhada, facili
 
 <div align="center">
 <img width="400px" src="">
-<br>Figura 20: Exemplo negativo de ajuda e documentação.
+<br>Figura 10: Exemplo negativo de ajuda e documentação.
 </div>
 
  

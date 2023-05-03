@@ -53,9 +53,12 @@ Nessa imagem podemos observar os icones de telefone que representam as chamadas 
 <h3 id="3.controle-e-liberdade-do-usuário">3. Controle e liberdade do usuário</h2>
 O sistema deve dar ao usuário a liberdade de fazer o que quiser, facilitando a compreensão do conteúdo que irá consumir.
 
-img
+![Captura de Tela (112)](https://user-images.githubusercontent.com/102235722/235936877-f50e9e1e-dbaf-4b87-94a1-9f3a2c8a61fe.png)
 
-<br>Figura 3: Exemplo negativo de controle e liberdade do usuário.
+
+<br>Figura 3: Exemplo de controle e liberdade do usuário.
+
+Nesta imagem, caso alguém clicar "sem querer" tem a possíbilidade de voltar atrás.
 </div>
 
 <br>

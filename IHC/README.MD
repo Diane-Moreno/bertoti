@@ -107,9 +107,11 @@ A interface deve permitir que os usuários tenham uma boa experiência com o sis
 <h3 id="8.estética-e-design-minimalista">8. Estética e design minimalista</h2>
 A interface deve ser minimalista e o conteúdo o mais direto possível, para não cansar o usuário.
 
-<br>
+![image](https://github.com/Diane-Moreno/bertoti/assets/102235722/71aeeff7-ab6c-4d96-a253-32628554f555)
 
 <br>Figura 8: Exemplo negativo de estética e design minimalista.
+
+Muitas informações, desorganizado e sem harmonia.
 </div>
 
 <br>
@@ -117,9 +119,11 @@ A interface deve ser minimalista e o conteúdo o mais direto possível, para nã
 <h3 id="9.ajudar-o-usuário-a-reconhecer,-diagnosticar-e-recuperar-se-de-erros">9. Ajudar o usuário a reconhecer, diagnosticar e recuperar-se de erros</h2>
 Em caso de algum erro, mostrar mensagens claras e objetivas e próximas da ação que causou o erro.
 
-<br>
+![image](https://github.com/Diane-Moreno/bertoti/assets/102235722/15db9862-6136-4db8-9a5a-6b12930941ae)
 
-<br>Figura 9: Exemplo negativo de ajuda ao usuário reconhecer, diagnosticar e recuperar-se de erros.
+<br>Figura 9: Exemplo de ajuda ao usuário reconhecer, diagnosticar e recuperar-se de erros.
+
+Nessa imagem vemos que o sistema avisa o que está errado, facilitando o reconhecimento do erro do úsuario.
 </div>
 
 <br>

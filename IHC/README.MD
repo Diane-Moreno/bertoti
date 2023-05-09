@@ -32,7 +32,7 @@ O sistema deve informar o que está acontecendo em tempo real para o usuário.
 
 <br>Figura 1: Exemplo de visibilidade do status do sistema.
 
-Nessa imagem podemos ver o tempo que está o vídeo, o quanto já foi carregado, e o quanto ainda resta.
+Nessa imagem podemos ver o tempo que está o vídeo, o quanto já foi carregado, e o quanto ainda resta assistir.
 </div>
 
 <br>
@@ -98,7 +98,7 @@ A interface deve permitir que os usuários tenham uma boa experiência com o sis
 
 <br>
 
-<img width="400px" src="">
+
 <br>Figura 7: Exemplo negativo de flexibilidade e eficiência de uso.
 </div>
 

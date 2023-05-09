@@ -33,7 +33,7 @@ O sistema deve informar o que está acontecendo em tempo real para o usuário.
 
 <br>Figura 1: Exemplo de visibilidade do status do sistema.
 
-Nessa imagem podemos ver o tempo que está a música, o quanto ainda resta assistir e as próximas músicas.
+Nessa imagem podemos ver o tempo que está a música, o quanto ainda resta ouvir e as próximas músicas.
 </div>
 
 <br>

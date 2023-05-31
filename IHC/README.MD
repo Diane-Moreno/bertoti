@@ -1,3 +1,8 @@
+<h1 align="center">Aplicação da Inteligência Artificial em uma área especifica</h1>
+<div align="center"><a href="../IHC/Inteligência Artificial para deficientes auditivos.pdf">Artigo - Inteligência Artificial para deficientes auditivos</a></div>
+
+<br><br>
+
 <h1 align="center">10 Heurísticas de Usabilidade para User Interface</h1>
 
  
